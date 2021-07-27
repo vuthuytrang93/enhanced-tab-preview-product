@@ -35,4 +35,4 @@ Usage
 -----
 
 Open the ProjectTesting directory/ProjectTesting.pde and press the play button on the top left.
-Please refer to Projectreport.pdf for User - Product analysis. Video demo will be provided upon request.
+Please refer to report/ProjectReport.pdf for User - Product analysis. Video demo will be provided upon request.
