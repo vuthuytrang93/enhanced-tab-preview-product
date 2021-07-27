@@ -28,7 +28,7 @@ environmentbuilt for the electronic arts, new media art, and visual design commu
 Installation
 ------------
 
-      git clone https://github.com/vuthuytrang93/enhanced-tab-preview-product
+      git clone https://github.com/vuthuytrang93/enhanced-tab-preview-product/source
 
 
 Usage
